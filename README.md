@@ -4,14 +4,19 @@ The Salesmen's Analysis Tracker is an interactive software tool designed to effi
 Main Features:
 
 Insert Info: Add new sales representatives’ records including name, area, division, specialty, and sales data.
+
 Display Details: View data in multiple modes such as:
 - Full database view
 - Specific salesperson’s record
 - Sales reps based on area, division, or specialty
 - Filtered views for those who have or haven’t met targets
+
 Modify Info: Update existing data to reflect transfers, corrections, or promotions.
+
 Delete Record: Remove outdated or incorrect entries.
+
 Incentive Slab: View incentive structures based on performance and target completion.
+
 Exit: Safely close the application.
 
 This tool aids BIO MEDICA in boosting sales efficiency, ensuring transparency in performance tracking, and providing data-driven insights to drive incentive decisions.
